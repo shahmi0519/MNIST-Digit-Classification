@@ -62,10 +62,9 @@ mnist-digit-classification/
 
 ## ✍️ Author
 **Ahamed Shahmi A.J**
-- **📧 Mail**: shahmiahamed0519@gmail.com
-- **🔗 LinkedIn**: Ahamed Shahmi (https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
-- **💻 GitHub**: shahmi0519 (https://github.com/shahmi0519)
-
+- **📧 Mail**: [`shahmiahamed0519@gmail.com`](shahmiahamed0519@gmail.com)
+- **🔗 LinkedIn**: [`Ahamed Shahmi`](https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
+- **💻 GitHub**: [`shahmi0519`](https://github.com/shahmi0519)
 ---
 
 ## 📝 License
