@@ -50,14 +50,14 @@ This project demonstrates how to classify handwritten digits (0–9) using the M
 ---
 
 ## 📂 Project Structure
-
+```bash
 mnist-digit-classification/
 ├── notebooks/
 │   └── mnist_digits_classification.ipynb
 ├── requirements.txt
 ├── README.md
 └── LICENSE 
-
+```
 ----
 
 ## ✍️ Author
